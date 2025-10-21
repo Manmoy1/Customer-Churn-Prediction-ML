@@ -1,5 +1,3 @@
 data/
 *.csv
 __pycache__/
-notebooks/
-*.ipynb
